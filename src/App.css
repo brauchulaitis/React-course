@@ -1,10 +1,25 @@
-.card {
+* {
+  font-family: sans-serif;
+}
+nav {
+  background: #ee9972;
+  padding: 20px;
+}
+nav a {
+  color: #edefee;
+  text-decoration: none;
+  font-size: 20px;
+  margin-right: 20px;
+}
+
+
+/* .card {
   margin: 20px;
   max-width: 300px;
   border: 1px solid gray;
   padding: 20px;
   border-radius: 10px;
-}
+} */
 
 
 /* .App {
